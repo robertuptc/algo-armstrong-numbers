@@ -18,4 +18,3 @@ def find_armstrong_numbers(numbers):
     return ans_list
             
 
-
